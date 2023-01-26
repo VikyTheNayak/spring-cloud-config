@@ -1,5 +1,5 @@
 my:
-  greeting: Hello from Config server without restart !!!
+  greeting: Hello from Config server !!!
 server:
   port: 9000
 
