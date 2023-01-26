@@ -1,4 +1,4 @@
 my:
-  greeting: Hellow from Config server !!
+  greeting: Hello from Config server !!!
   list:
     values: one, two, three
