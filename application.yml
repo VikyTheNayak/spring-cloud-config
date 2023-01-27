@@ -1,5 +1,0 @@
-my:
-  greeting: Hello from Config server application yml new value !!!
-  message: this is an messge from application yml.
-  list:
-    values: one, two, three
