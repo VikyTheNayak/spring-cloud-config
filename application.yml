@@ -1,4 +1,4 @@
 my:
-  greeting: Hello from Config server !!!
+  greeting: Hello from Config server application yml !!!
   list:
     values: one, two, three
