@@ -1,4 +1,4 @@
 server:
   port: 9000
 my:
-  greeting: Hello from server Config server new value!!!
+  greeting: Hello from server Config server new value updated value done !!!
