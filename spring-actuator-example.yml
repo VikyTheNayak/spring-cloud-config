@@ -1,5 +1,5 @@
 my:
-  greeting: Hello from server without restart !!!
+  greeting: Hello from server without restart!
 server:
   port: 9000
 
