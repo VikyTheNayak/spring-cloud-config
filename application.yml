@@ -1,0 +1,3 @@
+app:
+  default:
+    msg: This text from application yml !
