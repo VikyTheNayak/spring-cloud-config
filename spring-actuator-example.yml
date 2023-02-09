@@ -1,4 +1,4 @@
 server:
   port: 9000
 my:
-  greeting: Hello from server Config server application name file!
+  greeting: Hello from server Config server application name file changed!
