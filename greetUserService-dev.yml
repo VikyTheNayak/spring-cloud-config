@@ -1,0 +1,3 @@
+app:
+  service:
+    message: Text from greet user service dev profile service.
