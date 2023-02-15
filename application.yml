@@ -2,6 +2,4 @@ app:
   default:
     msg: This text from application yml !
     db:
-      url: "jdbc:cassandra://127.0.0.1:9042"
-      user: local
       password: '{cipher}fe8c3e7963d7b2f2d8b94f2a723ce3c73b42b35088c2d55800ff30bf7067145a'
