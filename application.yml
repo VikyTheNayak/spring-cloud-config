@@ -1,4 +1,4 @@
 app:
   default:
     message: This text from application yml !
-    password: '{cipher}b83a3bedb0c7f96070d0745bbdb67594f807c1bfe24edaaf5ff51e91f3925795'
+    password: '{cipher}af48a3480dedb5d15a42de66dbb43ab03b17c55fb02323f5d5890465bed6463f'
